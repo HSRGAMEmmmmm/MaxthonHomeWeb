@@ -1,1 +1,0 @@
-import{u as l}from"./OHGbFNhQ.js";import{U as n,N as p}from"./-r980Vuh.js";function i(e,a){const{title:s,titleTemplate:o,...r}=e;return l({title:s,titleTemplate:o,_flatMeta:r},{...a,transform(t){const m=n({...t._flatMeta});return delete t._flatMeta,{...t,meta:m}}})}const c=p("/img/laptop-frame.svg");export{c as _,i as u};
