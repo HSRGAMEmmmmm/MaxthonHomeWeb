@@ -1,0 +1,1 @@
+import{_ as a}from"./BccyyEgl.js";import{_ as n,c as r,b as o,S as s,F as c,o as _}from"./6WwT9yFL.js";const m={};function p(t,f){const e=a;return _(),r(c,null,[o(e,{name:"app-header"}),s(t.$slots,"default"),o(e,{name:"app-footer"})],64)}const d=n(m,[["render",p]]);export{d as default};
