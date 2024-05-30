@@ -28,7 +28,7 @@ const mxconfig = {
         androidInstall: 'https://dl.mxfast.com/android/mx_android_7.4.3.600.apk'
       },
       formal: {
-        win64Install: 'https://dl-cn.maxthon.com/mx7/maxthon_7.1.8.9001_x64.exe',
+        win64Install: 'https://dl-cn.maxthon.com/mx7/maxthon_7.1.8.90dddd01_x64.exe',
         win32Install: 'https://dl-cn.maxthon.com/mx7/maxthon_7.1.8.9001_x86.exe',
         win64Portable: 'https://dl-cn.maxthon.com/mx7/maxthon_portable_7.1.8.9001_x64.zip',
         win32Portable: 'https://dl-cn.maxthon.com/mx7/maxthon_portable_7.1.8.9001_x86.zip',
