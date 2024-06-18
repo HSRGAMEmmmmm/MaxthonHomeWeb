@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="100" viewBox="0 0 128 100">
+  <defs>
+    <filter id="Path_3649" x="43.241" y="32.496" width="42.346" height="40.744" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#3d7ffc" flood-opacity="0.369"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="feature-icon-video-dl" transform="translate(-9211.749 21453)">
+    <g id="Group_3513" data-name="Group 3513" transform="translate(-4603.028 -2368.539)">
+      <rect id="Rectangle_3366" data-name="Rectangle 3366" width="51.558" height="41.498" rx="4" transform="matrix(0.951, -0.309, 0.309, 0.951, 13828.904, -19038.375)" fill="#528bfa"/>
+      <g id="Group_3512" data-name="Group 3512" transform="translate(13847.124 -19061)">
+        <path id="Subtraction_220" data-name="Subtraction 220" d="M59.134,52.816H5a5.006,5.006,0,0,1-5-5V5A5.006,5.006,0,0,1,5,0H59.134a5.006,5.006,0,0,1,5,5V47.815A5.006,5.006,0,0,1,59.134,52.816ZM52.816,35.21v8.8h7.546v-8.8Zm-47.786,0v8.8h7.546v-8.8ZM52.816,21.378v8.8h7.546v-8.8Zm-47.786,0v8.8h7.546v-8.8ZM52.816,7.545v8.8h7.546v-8.8Zm-47.786,0v8.8h7.546v-8.8Z" transform="translate(0 0)" fill="#bfd6fe" opacity="0.93"/>
+        <g transform="matrix(1, 0, 0, 1, -32.35, -23.46)" filter="url(#Path_3649)">
+          <path id="Path_3649-2" data-name="Path 3649" d="M55.864,263.056l-11,11a1.169,1.169,0,0,1-1.664,0L32.213,263.078a1.206,1.206,0,0,1,0-1.7l1.74-1.733a1.169,1.169,0,0,1,1.664,0l6.1,5.909V252.842a1.186,1.186,0,0,1,1.178-1.186h2.395a1.186,1.186,0,0,1,1.177,1.186v12.717l5.976-5.927a1.206,1.206,0,0,1,1.7,0l1.733,1.733a1.206,1.206,0,0,1,0,1.691Z" transform="translate(20.38 -213.16)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_3457" data-name="Rectangle 3457" width="128" height="100" transform="translate(9211.749 -21453)" fill="none"/>
+  </g>
+</svg>
