@@ -1,0 +1,1 @@
+function n(){const e=navigator.userAgent;return/iPhone|iPad/i.test(e)?"ios":/Android/i.test(e)?"android":/Mac OS X|Macintosh/i.test(e)?"mac":/win64|wow64/i.test(e)?"win64":/win32|wow32/i.test(e)?"win32":"other"}function r(e){let t=[];for(let i in e)t.push({type:"application/ld+json",innerHTML:JSON.stringify(e[i])});return t}export{n as f,r as g};
