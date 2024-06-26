@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="video" transform="translate(-10.5 -9)">
+    <rect id="矩形_3244" data-name="矩形 3244" width="40" height="40" transform="translate(10.5 9)" fill="none"/>
+    <g id="组_3276" data-name="组 3276" transform="translate(11.5 9.387)">
+      <rect id="矩形_3129" data-name="矩形 3129" width="38" height="40" rx="2.5" transform="translate(0 -0.387)" fill="#c2e3c4"/>
+      <path id="矩形_3128" data-name="矩形 3128" d="M2.5,0h33A2.5,2.5,0,0,1,38,2.5V11a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V2.5A2.5,2.5,0,0,1,2.5,0Z" transform="translate(0 -0.387)" fill="#fa4"/>
+      <path id="路径_3681" data-name="路径 3681" d="M111.509,256h15.176l-19.349,28.785H92.16Z" transform="translate(-88.655 -245.521)" fill="#a2cea5"/>
+      <path id="路径_3684" data-name="路径 3684" d="M84.062,63.582m-2.142,0a2.142,2.142,0,1,0,2.142-2.142A2.142,2.142,0,0,0,81.92,63.582Z" transform="translate(-78.804 -58.342)" fill="#fff"/>
+      <path id="联合_178" data-name="联合 178" d="M0,8.57,2.618,4.291H4.646L2.036,8.57ZM2.618,4.279,0,0H2.036L4.646,4.279Z" transform="translate(9.762 0.759)" fill="#fff"/>
+      <path id="联合_179" data-name="联合 179" d="M0,8.57,2.618,4.291H4.646L2.036,8.57ZM2.618,4.279,0,0H2.036L4.646,4.279Z" transform="translate(16.771 0.759)" fill="#fff"/>
+      <path id="联合_180" data-name="联合 180" d="M0,8.57,2.618,4.291H4.646L2.036,8.57ZM2.618,4.279,0,0H2.036L4.646,4.279Z" transform="translate(24.015 0.759)" fill="#fff"/>
+      <path id="联合_181" data-name="联合 181" d="M0,8.57,2.618,4.291H4.646L2.036,8.57ZM2.618,4.279,0,0H2.036L4.646,4.279Z" transform="translate(29.81 0.759)" fill="#fff"/>
+      <path id="多边形_50" data-name="多边形 50" d="M7.036.882a.6.6,0,0,1,1.035,0l6.506,11.09a.6.6,0,0,1-.518.9H1.048a.6.6,0,0,1-.518-.9Z" transform="translate(27.856 16.294) rotate(90)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

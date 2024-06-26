@@ -1,0 +1,6 @@
+import{_ as m}from"./download-banner.cec1748f.js";import{a as d,q as p,o as u,c as w,w as t,h as a,b as e,t as s,j as g,u as f,l as D}from"./entry.ce67fe4b.js";import{_ as h}from"./download-container.client.4604fa8f.js";import{_ as y}from"./layout.0bc348b9.js";import"./device-mac.7d115f00.js";import"./_plugin-vue_export-helper.c27b6911.js";import"./mx-icon.32edc059.js";import"./mx-link.b5144ebc.js";import"./nuxt-link.a2896ab1.js";const x=D(h),B={class:"download-banner-title"},k={__name:"download",setup(C){const{locale:r,t:o}=d(),c=r.value==="zh"?"subtitle":"title";return p({title:o("pageDownloadTitle"),meta:[{hid:"description",name:"description",content:o("pageDownloadDesc")}],script:[{src:"https://www.googletagmanager.com/gtag/js?id=G-V6RCRGBYEE",async:!0},{innerHTML:`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-V6RCRGBYEE');
+          `}]}),(n,b)=>{const i=m,l=x,_=y;return u(),w(_,{name:"custom"},{banner:t(()=>[a(i,null,{default:t(()=>[e("div",B,s(n.$t("welcomeDownload1")),1),e("div",{class:g(`download-banner-${f(c)}`)},s(n.$t("welcomeDownload2")),3)]),_:1})]),default:t(()=>[a(l,{env:"formal"})]),_:1})}}};export{k as default};

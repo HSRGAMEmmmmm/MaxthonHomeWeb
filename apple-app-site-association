@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "WCB96B7533.com.mx.MxBrowser-iPhone",
+                "paths": [ "*","/app/*" ]
+            }
+        ]
+    }
+}
